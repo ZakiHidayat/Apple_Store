@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/macbookFragment"
+        android:title="Shop"
+        android:icon="@drawable/maciphone"
+        />
+
+    <item
+        android:id="@+id/kategoriFragment"
+        android:title="Categories"
+        android:icon="@drawable/ic_cate"
+        />
+
+    <item
+        android:id="@+id/keunggulanFragment"
+        android:title="Strength / Weakness"
+        android:icon="@drawable/jari"
+        />
+
+</menu>

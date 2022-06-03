@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.17135416666666667" />
+        <entry key="app/src/main/res/drawable/border.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/border_blue.xml" value="0.13" />
+        <entry key="app/src/main/res/drawable/gradient_end_colour.xml" value="0.2085" />
+        <entry key="app/src/main/res/drawable/ic_back.xml" value="0.1255" />
+        <entry key="app/src/main/res/drawable/ic_keunggulan.xml" value="0.13" />
+        <entry key="app/src/main/res/drawable/mac_icon.xml" value="0.1485" />
+        <entry key="app/src/main/res/drawable/maciphone.xml" value="0.13" />
+        <entry key="app/src/main/res/font/poppins_bold.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/activity_detail.xml" value="0.2773635864257812" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.27665863037109373" />
+        <entry key="app/src/main/res/layout/fragment_iphone.xml" value="0.18115942028985507" />
+        <entry key="app/src/main/res/layout/fragment_kategori.xml" value="0.2716463614201201" />
+        <entry key="app/src/main/res/layout/fragment_keunggulan.xml" value="0.16007232666015625" />
+        <entry key="app/src/main/res/layout/fragment_macbook.xml" value="0.1915603637695313" />
+        <entry key="app/src/main/res/layout/gradient_end_colour.xml" value="0.18115942028985507" />
+        <entry key="app/src/main/res/layout/item_hp.xml" value="0.21488319868495517" />
+        <entry key="app/src/main/res/layout/item_iphone.xml" value="0.2608865931414176" />
+        <entry key="app/src/main/res/layout/item_kategori.xml" value="0.19506050581386145" />
+        <entry key="app/src/main/res/layout/item_mac.xml" value="0.23912811279296878" />
+        <entry key="app/src/main/res/layout/item_recycler.xml" value="0.28954925537109377" />
+        <entry key="app/src/main/res/layout/item_recycler_mac.xml" value="0.18115942028985507" />
+        <entry key="app/src/main/res/layout/item_recycler_macbook.xml" value="0.18115942028985507" />
+        <entry key="app/src/main/res/menu/item_menu.xml" value="0.2558624267578125" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.2671875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

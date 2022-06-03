@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/buttom_nav"
+    app:startDestination="@id/macbookFragment">
+
+    <fragment
+        android:id="@+id/macbookFragment"
+        android:name="com.example.appleproduct.fragment.MacbookFragment"
+        android:label="fragment_macbook"
+        tools:layout="@layout/fragment_macbook" />
+    <fragment
+        android:id="@+id/kategoriFragment"
+        android:name="com.example.appleproduct.fragment.KategoriFragment"
+        android:label="fragment_kategori"
+        tools:layout="@layout/fragment_kategori" />
+    <fragment
+        android:id="@+id/keunggulanFragment"
+        android:name="com.example.appleproduct.fragment.KeunggulanFragment"
+        android:label="fragment_keunggulan"
+        tools:layout="@layout/fragment_keunggulan" />
+</navigation>
