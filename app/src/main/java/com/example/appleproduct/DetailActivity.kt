@@ -35,7 +35,7 @@ class DetailActivity : AppCompatActivity() {
         }
 
         binding.btnBuydetail.setOnClickListener {
-            Toast.makeText(this, "Barang anada sedang kami persiapkan...", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "Barang anda sedang kami persiapkan...", Toast.LENGTH_LONG).show()
         }
     }
 }
